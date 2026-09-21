@@ -1,0 +1,20 @@
+<svg width="56" height="56" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="vfLogoTitle">
+  <title id="vfLogoTitle">Vision Field Eye Care Services logo mark</title>
+  <defs>
+    <linearGradient id="vfIris" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E6FA8"/>
+      <stop offset="55%" stop-color="#128089"/>
+      <stop offset="100%" stop-color="#7CC6E8"/>
+    </linearGradient>
+    <radialGradient id="vfShine" cx="35%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="28" cy="28" r="27" fill="#FFFFFF"/>
+  <circle cx="28" cy="28" r="27" fill="none" stroke="url(#vfIris)" stroke-width="1.4" opacity="0.45"/>
+  <path d="M4 28C10 16 18 10 28 10C38 10 46 16 52 28C46 40 38 46 28 46C18 46 10 40 4 28Z" fill="none" stroke="url(#vfIris)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="28" cy="28" r="11" fill="url(#vfIris)"/>
+  <circle cx="28" cy="28" r="4.3" fill="#062B2E"/>
+  <circle cx="28" cy="28" r="11" fill="url(#vfShine)"/>
+</svg>
